@@ -9,6 +9,10 @@ import android.view.View;
 
 public class ThirdActivity extends AppCompatActivity {
 
+    /**
+     * java doc!!! remember these?!?!?!?!?!?!?!?!?!?!?!
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
